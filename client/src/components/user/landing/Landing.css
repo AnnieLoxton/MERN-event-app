@@ -1,0 +1,48 @@
+body {
+  background-color: #f9f9f9;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 76.29px;
+  letter-spacing: -2.5px;
+  background-color: transparent;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 48.83px;
+}
+
+.largeP {
+  font-weight: 400;
+  font-size: 20px;
+  background-color: transparent;
+}
+
+.header {
+  height: 425px;
+  background: linear-gradient(90deg, #afe0ff 0%, #baafff 48.42%, #afffb6 100%);
+  border-radius: 0px 0px 48px 48px;
+  padding: 80px;
+}
+
+.headerContent {
+  max-width: 1440px;
+  margin: auto;
+}
+
+.eventsContainer {
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 68px;
+}
+
+.eventsList {
+  margin-top: 48px;
+  margin-bottom: 120px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 24px;
+  column-gap: 16px;
+}

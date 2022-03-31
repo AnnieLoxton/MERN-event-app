@@ -1,0 +1,12 @@
+.adminHeader {
+  height: 214px;
+  background: linear-gradient(90deg, #afe0ff 0%, #baafff 48.42%, #afffb6 100%);
+  border-radius: 0px 0px 48px 48px;
+  padding-left: 80px;
+  padding-top: 70px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 61px;
+}

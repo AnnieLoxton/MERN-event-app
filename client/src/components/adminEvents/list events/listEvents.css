@@ -1,0 +1,9 @@
+.listEventStyle {
+  width: 830px;
+  background: #ffffff;
+  box-shadow: 0px 9px 29px rgba(0, 0, 0, 0.09);
+  border-radius: 8px;
+  margin: 32px auto;
+  padding: 32px;
+  margin-bottom: 120px;
+}

@@ -1,0 +1,12 @@
+.eventInfo {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+  margin-bottom: 0;
+}
+
+.cardInfo {
+  position: absolute;
+  bottom: 16px;
+  width: 82%;
+}

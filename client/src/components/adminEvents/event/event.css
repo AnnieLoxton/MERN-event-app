@@ -1,0 +1,21 @@
+.manageStyle {
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #bdbdbd;
+  border-radius: 9px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.eventName {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.eventDesc {
+  max-width: 200px;
+}
+
+.eventDetails {
+  margin-top: 24px;
+}

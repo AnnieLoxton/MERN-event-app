@@ -1,0 +1,27 @@
+.formStyle {
+  width: 464px;
+  background: #ffffff;
+  box-shadow: 0px 9px 29px rgba(0, 0, 0, 0.09);
+  border-radius: 8px;
+  margin: 80px auto;
+  padding: 32px;
+  text-align: center;
+  margin-bottom: 120px;
+}
+
+h5 {
+  font-weight: 600;
+  font-size: 25px;
+  margin-bottom: 24px;
+}
+
+.submitBtn {
+  background-color: #b0fdb9;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 46px;
+  border: none;
+  padding: 12px 24px;
+  width: 100%;
+}

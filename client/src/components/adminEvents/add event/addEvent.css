@@ -1,0 +1,30 @@
+.pageContainer {
+  max-width: 1440px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+h3 {
+  font-size: 39px;
+  font-weight: 500;
+}
+
+.editFormStyle {
+  width: 830px;
+  background: #ffffff;
+  box-shadow: 0px 9px 29px rgba(0, 0, 0, 0.09);
+  border-radius: 8px;
+  margin: 32px auto;
+  padding: 32px;
+  margin-bottom: 80px;
+}
+
+.editBtn {
+  background-color: #b0fdb9;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 46px;
+  border: none;
+  padding: 12px 24px;
+}
